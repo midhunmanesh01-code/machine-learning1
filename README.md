@@ -1,4 +1,4 @@
-#AI/ML Beginner Journey
+# AI/ML Beginner Journey
 ## Project 1: Spam Message Classifier (In Progress)
 
 This repository is part of my structured AI/ML learning journey as a beginner in Artificial Intelligence and Machine Learning.
@@ -52,12 +52,16 @@ To build a Spam Message Classifier from scratch while learning the fundamentals 
 ---
 
 ## 📂 Project Structure
-spam-classifier/
-│
-├── dataset/
-├── notebooks/
-├── main.py
-└── README.md
+ML1/
+└── spamclassifier/
+    ├── basics.py
+    ├── index.html
+    ├── script.js
+    ├── test.py
+    ├── txttobinary.py
+    ├── README.md
+    └── requirements.txt
+
 
 ---
 
